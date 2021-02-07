@@ -1,1 +1,26 @@
+![](banner.jpg?raw=true "Logo")
+
 # K3D_Scripting
+This contains the working examples that are outlined in the [Scripting Guide] (https://scripting.karamba3d.com/).
+
+Contributing
+------------
+
+Please read [CONTRIBUTING.md](https://github.com/karamba3d/K3D_Scripting/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+Authors
+-------
+
+* Clemens Preisinger
+
+See also list of contributors who participated in this project
+
+License
+-------
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/karamba3d/K3D_Scripting/blob/master/LICENSE.md) file for details
+
+## Contact
+
+Should you need to contact us via email (Clemens Presinger): [cp@karamba3d.com](mailto:cp@karamba3d.com). 
+
