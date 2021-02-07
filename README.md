@@ -2,6 +2,7 @@
 
 # K3D_Scripting
 This contains the working examples that are outlined in the [Scripting Guide](https://scripting.karamba3d.com/).
+Examples (for Karamba3D 1.3.3) can be found [here](https://github.com/karamba3d/K3D_Scripting/tree/main/ScriptingExamples).
 
 Contributing
 ------------
