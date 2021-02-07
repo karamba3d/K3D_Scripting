@@ -1,7 +1,7 @@
 ![](banner.jpg?raw=true "Logo")
 
 # K3D_Scripting
-This contains the working examples that are outlined in the [Scripting Guide] (https://scripting.karamba3d.com/).
+This contains the working examples that are outlined in the [Scripting Guide](https://scripting.karamba3d.com/).
 
 Contributing
 ------------
@@ -12,6 +12,8 @@ Authors
 -------
 
 * Clemens Preisinger
+* Georg Lobe
+* Matthew Tam
 
 See also list of contributors who participated in this project
 
