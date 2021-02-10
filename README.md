@@ -5,7 +5,7 @@ This contains the working examples that are outlined in the [Scripting Guide](ht
 
 Examples (for Karamba3D 1.3.3) can be found [here](https://github.com/karamba3d/K3D_Scripting/tree/main/ScriptingExamples).
 
-The API Documentation can be found [here](https://www.karamba3d.com/help/1-3-3/) or the help file [Karamba3D_API_1-3-3.chm](https://github.com/karamba3d/K3D_Scripting/blob/main/Karamba3D_API_1-3-3.chm).
+The API Documentation can be found [online](https://www.karamba3d.com/help/1-3-3/) or download the help file [Karamba3D_API_1-3-3.chm](https://github.com/karamba3d/K3D_Scripting/blob/main/Karamba3D_API_1-3-3.chm).
 
 Contributing
 ------------
